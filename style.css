@@ -1,0 +1,25 @@
+td, th{
+    border: 1px solid #333;
+}
+#btnEditar{
+    width: 120px;
+    height: 30px;
+    color: #333;
+    background-color: #e8ff7f;
+}
+#btnExcluir{
+    width: 120px;
+    height: 30px;
+    color: #333;
+    background-color: #f72626;
+}
+.novoFormulario{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    background-color: green;
+    position: absolute;
+    z-index: 99;
+}
